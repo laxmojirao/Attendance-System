@@ -1,0 +1,10 @@
+Install All the modules mentioned below 
+
+pip install opencv
+pip install datetime
+pip install pytest-shutil
+pip install python-csv
+pip install numpy
+pip install pillow 
+pip install pandas
+
